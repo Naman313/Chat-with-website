@@ -1,0 +1,4 @@
+langchain== 0.1.4
+langchain_community== 0.0.29
+streamlit== 1.24.0
+beautifulsoup4== 4.12.3
